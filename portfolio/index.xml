@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio on Home</title>
+    <link>https://ahmedkhaledm.com/portfolio/</link>
+    <description>Recent content in My Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2020 17:29:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://ahmedkhaledm.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Year 2020</title>
+      <link>https://ahmedkhaledm.com/portfolio/my_project/shell20/</link>
+      <pubDate>Fri, 03 Apr 2020 17:29:37 +0200</pubDate>
+      
+      <guid>https://ahmedkhaledm.com/portfolio/my_project/shell20/</guid>
+      <description>In the year 2020, I became the team manager for the third year and the fourth competition. That year, we had quite a good time in our timeplan, as we were able to design a full electric car with suspension (for the first time) and only weigh 130kg.
+The 2020 project was sponsored by Brightskies company along with Shell Eco-Marathon.
+I started mastering python and TensorFlow that year. As I had my graduation project in the field of machine learning, I also had a great experience with model based design using Simulink in MATLAB, and you will get to know more below.</description>
+    </item>
+    
+    <item>
+      <title>EVER 2019</title>
+      <link>https://ahmedkhaledm.com/portfolio/my_project/ever19/</link>
+      <pubDate>Tue, 03 Dec 2019 17:25:37 +0200</pubDate>
+      
+      <guid>https://ahmedkhaledm.com/portfolio/my_project/ever19/</guid>
+      <description>In the year 2019, I had a lot of experience that year—and this season especially—as I was not only the leader this year, but also the driver in two consecutive competitions. The team had the chance to be on track and compete after passing the technical and safety inspections.\
+EVER19&amp;rsquo;s car—ART02—was fully designed and manufactured in a total of 6 month. We had 20 member in the team in different majors, mainly electronics and mechanical engineering.</description>
+    </item>
+    
+    <item>
+      <title>Shell Eco-Marathon 2019</title>
+      <link>https://ahmedkhaledm.com/portfolio/my_project/shell19/</link>
+      <pubDate>Wed, 03 Apr 2019 17:23:37 +0200</pubDate>
+      
+      <guid>https://ahmedkhaledm.com/portfolio/my_project/shell19/</guid>
+      <description>In Shell Eco-Marathon 2019, the team had an accumulated experience and that made us break one of our own reords by passing the competition&amp;rsquo;s three phases and the technical and safety inspections.
+In the prephases of the competition, we made a technical presentation that was awarded a $3,500.
+I had the chance to represent my team and my institute in one of the events that was held by Shell Eco-Marathon.</description>
+    </item>
+    
+    <item>
+      <title>First Electric Car in Cooperation with the military productions</title>
+      <link>https://ahmedkhaledm.com/portfolio/my_project/ever18/</link>
+      <pubDate>Wed, 03 Jan 2018 17:21:37 +0200</pubDate>
+      
+      <guid>https://ahmedkhaledm.com/portfolio/my_project/ever18/</guid>
+      <description>The first designed and manufatured electric car was sponsored by the military productions and in cooperation with the former minister.
+It was an single seated urban electric car that weighs 350kg with a maximum speed of 60km/hr.
+Below is a rendered image of the car, namely, ART00:
+The car competed in EVER18 and the team had the chance of representing his institution for the first time and ranking the 10th out of 25 other teams.</description>
+    </item>
+    
+  </channel>
+</rss>
