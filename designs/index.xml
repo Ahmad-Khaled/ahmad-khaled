@@ -5,10 +5,6 @@
     <link>https://ahmedkhaledm.com/designs/</link>
     <description>Recent content in Designs on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://ahmedkhaledm.com/designs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://ahmedkhaledm.com/designs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
